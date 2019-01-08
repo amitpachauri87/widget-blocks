@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Widget Blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-17 09:36+0000\n"
+"PO-Revision-Date: 2018-12-17 09:36+0000\n"
+"Last-Translator: nobody <amit.p@cisinlabs.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#: index.php:40
+msgid "Icon With Block Title"
+msgstr ""
+
+#: index.php:41
+msgid "Create Row Coloumns"
+msgstr ""
+
+#: index.php:42
+msgid "Sections"
+msgstr ""
+
+#: index.php:100
+msgid "Icons"
+msgstr ""
+
+#: index.php:106
+msgid "Icon Placed"
+msgstr ""
+
+#: index.php:108
+msgid "Centre"
+msgstr ""
+
+#: index.php:109
+msgid "End"
+msgstr ""
+
+#: index.php:110
+msgid "Begining"
+msgstr ""
+
+#: index.php:136
+msgid "Number of Rows"
+msgstr ""
+
+#: index.php:143
+msgid "Number Of Coloumns"
+msgstr ""
+
+#: index.php:169
+msgid "Row1/Coloumn1"
+msgstr ""
+
+#: index.php:175 index.php:256 index.php:410
+msgid "Url"
+msgstr ""
+
+#: index.php:176
+msgid "Size 100X100"
+msgstr ""
+
+#: index.php:179 index.php:260 index.php:414
+msgid "Shape"
+msgstr ""
+
+#: index.php:182 index.php:263 index.php:417
+msgid "Image"
+msgstr ""
+
+#: index.php:187 index.php:268 index.php:422
+msgid "Round"
+msgstr ""
+
+#: index.php:188 index.php:269 index.php:423
+msgid "Square"
+msgstr ""
+
+#: index.php:197 index.php:278 index.php:432
+msgid "Link"
+msgstr ""
+
+#: index.php:208 index.php:289 index.php:443
+msgid "Description"
+msgstr ""
+
+#: index.php:219 index.php:300 index.php:454
+msgid "MouseHover Description"
+msgstr ""
+
+#: index.php:230 index.php:311 index.php:465
+msgid "GrayScale"
+msgstr ""
+
+#: index.php:232 index.php:313 index.php:467
+msgid "Yes"
+msgstr ""
+
+#: index.php:232 index.php:314 index.php:467
+msgid "No"
+msgstr ""
+
+#: index.php:257 index.php:411
+msgid "Size 100x100"
+msgstr ""
+
+#: admin/widgetRegister.php:8
+msgid "A Widget to show product blocks on sidebar"
+msgstr ""
+
+#: admin/widgetRegister.php:10
+msgid "Block Widget"
+msgstr ""
+
+#: admin/widgetRegister.php:82
+msgid "Select the Block Widget that you want to show on sidebar"
+msgstr ""
+
+#: admin/widgetRegister.php:84
+msgid "Select"
+msgstr ""
+
+#. Name of the plugin
+msgid "Widget Blocks"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used to create widgets blocks in the widets section and "
+"creates a post type names widget blocks"
+msgstr ""
+
+#. Author of the plugin
+msgid "LR Photograpy Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.lriese.ch"
+msgstr ""
